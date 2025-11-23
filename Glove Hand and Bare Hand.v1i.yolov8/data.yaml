@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['bare_hand', 'glove_hand']
+
+roboflow:
+  workspace: shashanks
+  project: glove-hand-and-bare-hand-zwvif-rvxh4
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/shashanks/glove-hand-and-bare-hand-zwvif-rvxh4/dataset/1
