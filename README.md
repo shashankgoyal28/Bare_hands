@@ -16,9 +16,10 @@ The detection pipeline uses YOLOv8 for training and inference, and outputs:
 
 Name: Glove Hand and Bare Hand Detection
 Source: Roboflow Universe (custom dataset forked and exported in YOLO format)
-link: 
+link : https://universe.roboflow.com/shashanks/glove-hand-and-bare-hand-zwvif-rvxh4 
 The dataset contained three splits:
-
+Glove Hand and Bare Hand Computer Vision Model
+total: 671
 Train: 415 images
 Valid: 160 images
 Test: 96 images
